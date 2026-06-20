@@ -1,2 +1,14 @@
 # worldcup-cnnow-hub
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+这个仓库用于静态页面归档，主要保存 HTML 文件和说明信息。
+
+## 文件用途
+
+- HTML 文件保存页面内容
+- README 记录仓库基本信息
+
+## 维护方式
+
+发布程序会按配置写入文件，手动修改时请保留现有结构。
